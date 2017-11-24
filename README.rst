@@ -10,11 +10,6 @@ Artificial Intelligence (AI).
 This project is just starting, check back later or get in touch
 to find out more.
 
-Goals
------
-
-* Intelligent
-
 System Design Principles
 ------------------------
 
