@@ -23,7 +23,7 @@ System Design Principles
 * Decentralised. A large system should be self-organising without need 
   for a centralised control system. There should of course be some supervisory
   control, but this should be kept to a minimum.
-* The Network is the Computer``*``. Use software-defined networking (SDN) to 
+* The Network is the Computer*. Use software-defined networking (SDN) to 
   create an overlay network that is more than just transport - it defines the
   dynamic wiring of the system.
 * Not opinionated. The system shouldn't be opinionated about the type of
